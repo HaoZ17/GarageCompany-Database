@@ -1,0 +1,11 @@
+Name,InvestTime,QuitTime,FundIncomeFundRecordID
+Fidelity,2000/1/1 0:00,,100000
+Amundi,2001/1/1 0:00,,100001
+JPMorgan Chase,2018/1/1 0:00,2018/2/1 0:00,100002
+Charles Schwab,2018/6/1 0:00,,100003
+The Vanguard Group,2018/7/1 0:00,,100004
+BlackRock,2019/7/1 0:00,,100005
+Charles Schwab,2019/7/2 0:00,2019/8/1 0:00,100006
+State Street Global Advisors,2019/7/3 0:00,2019/8/2 0:00,100007
+Allianz,2019/7/4 0:00,2019/8/3 0:00,100008
+BNY Mellon,2019/7/5 0:00,2019/8/4 0:00,100009

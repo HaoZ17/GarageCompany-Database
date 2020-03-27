@@ -1,0 +1,11 @@
+FromName,FundValue,Status,FundTime
+Bob,100000,Done,2000/1/1 0:00
+Jack,20000,Done,2001/1/1 0:00
+Linda,1000000,Cancel,2018/1/1 0:00
+Lily,2000,Done,2018/6/1 0:00
+Tom,500000,Done,2018/7/1 0:00
+Cathy,4000,Done,2019/7/1 0:00
+Judy,1000,Cancel,2019/7/2 0:00
+John,1000,Cancel,2019/7/3 0:00
+Jack,1000,Cancel,2019/7/4 0:00
+Linda,1000,Cancel,2019/7/5 0:00

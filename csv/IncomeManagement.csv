@@ -1,0 +1,13 @@
+IncomeType,RegistTime,ParkingRecordRecordID,FundIncomeFundRecordID,GarageRecordID,Value
+Invest,2000/1/1 0:00,,100000,,50
+Invest,2001/1/1 0:00,,100001,,50
+Invest,2018/6/1 0:00,,100003,,50
+Invest,2018/7/1 0:00,,100004,,50
+Invest,2019/7/1 0:00,,100005,,4000
+Benefit,2018/4/1 8:00,,,100000,100
+Benefit,2018/5/10 10:00,,,100001,100
+Benefit,2018/5/11 13:00,,,100002,100
+Benefit,2018/6/4 3:00,,,100003,100
+Benefit,2018/7/5 20:00,,,100004,100
+Benefit,2019/11/19 0:00,100003,,,50
+Benefit,2019/11/20 0:00,100004,,,50
